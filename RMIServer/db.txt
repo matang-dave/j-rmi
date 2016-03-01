@@ -1,0 +1,7 @@
+admin,password
+matang,dave
+google,yahoo
+microsoft,yahoo
+micro,soft
+rudrik,upadhyay
+bits,pilani
